@@ -1,4 +1,6 @@
 ## waze api - wrapping waze live map 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNimrod007%2Fwaze-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNimrod007%2Fwaze-api?ref=badge_shield)
+
 
 #### 3 steps and your up & running!
 
@@ -30,3 +32,7 @@ curl -v "http://localhost:8080/waze/routesWithDirections?end=156+5th+Avenue%2C+N
  ```
 
 ##### http://www.nimrodstech.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNimrod007%2Fwaze-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNimrod007%2Fwaze-api?ref=badge_large)
